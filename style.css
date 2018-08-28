@@ -145,7 +145,7 @@ h1{
 
 @media(max-width: 550px){
   header{
-    height: 80vh;
+    height: 100vh;
   }
   .heading{
     margin: 10vw;
@@ -165,6 +165,8 @@ h1{
   font-size: 30px;
   font-weight: bold;
   color: rgba(0,0,0,.8);
-
-
-}}
+}
+.sec-1{
+  background: white;
+}
+}
