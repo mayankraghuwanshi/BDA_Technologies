@@ -157,6 +157,9 @@ h1{
   background-repeat: no-repeat;
   padding: 30px;
 }
+form{
+  margin: 30px;
+}
 
 @media(max-width: 550px){
   header{
