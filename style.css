@@ -126,6 +126,12 @@ h1{
   color: rgba(0,0,0,.4);
 
 }
+.sec-log{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  display: block;
+}
 .sec-2{
   background-image: url("");
 }
@@ -155,6 +161,4 @@ h1{
   color: rgba(0,0,0,.8);
 
 
-}
-
-}
+}}
