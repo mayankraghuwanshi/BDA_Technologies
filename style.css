@@ -7,6 +7,7 @@ header{
 	width: 100%;
 	height: 100vh;
 	background-image: url("background.jpg");
+  background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -114,7 +115,7 @@ h1{
 
 .sec-1{
   padding: 30px;
-  height: 100vh;
+  height: 110vh;
   background-image: url("https://wallpapertag.com/wallpaper/full/a/a/4/102788-light-grey-background-1920x1200-desktop.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -139,9 +140,23 @@ h1{
  
 }
 .sec-2{
-  background-image: url("");
+  width: 100%;
+  height: 100vh;
+  background-image: url("sec-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px;
 }
 
+.contact{
+  width: 100%;
+  height: 100vh;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgLW1eBgTIBw_xsVGRt_rF8FLb5YGBlNodvmyv9p8bxQVzDOFm");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding: 30px;
+}
 
 @media(max-width: 550px){
   header{
