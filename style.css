@@ -160,6 +160,14 @@ h1{
 form{
   margin: 30px;
 }
+#map {      
+            margin: 30px;
+            height: 480px;
+            width: 100%;
+            border: 1px solid;
+            border-style:dashed;
+            border-radius: 12px;
+        }
 
 @media(max-width: 550px){
   header{
