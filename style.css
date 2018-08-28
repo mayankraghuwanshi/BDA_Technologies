@@ -99,8 +99,32 @@ header{
   font-weight: bold;
 }
 .heading button{
-     margin: 10px;
+
+     margin: auto;
+     display: block;
+     width: 100px;
+     border-radius: 12px;
+     border:1px solid;
+     background-color: rgba(0,0,0,.3);
 }
-.center{
-  text-align: center;
+
+@media(max-width: 550px){
+  header{
+    height: 80vh;
+  }
+  .heading{
+    margin: 10vw;
+  } 
+  .heading h1{
+    font-size: 40px;
+    text-align: center;
+  }
+  .heading button{
+    width: 80px;
+    margin:auto;
+    display:block;
+    margin-top: 10vh;
+    color: white;
+  }
+
 }
