@@ -97,7 +97,14 @@ h1{
 .heading{
   position: relative;
   margin: 20vh;
-
+  margin-top: 20px;
+}
+.BDA{
+  width: 200px;
+  height: 150px;
+  margin: auto;
+  margin-top: 50px;
+  display: block;
 }
 .heading h1{
   font-size: 60px;
@@ -193,14 +200,25 @@ h1{
 .sec-3{
   width: 100%;
   padding: 30px;
+  background-image: url("https://images.wallpapersden.com/image/download/city-pool-park_17767_1920x1080.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 500px;
 }
 .sec-4{
+  width: 100%;
   padding: 30px;
+   background-image: url("http://xinature.com/wp-content/uploads/2016/10/sky-nature-blue-lanterns-night-sea-pier-clouds-lights-wallpaper-background-1920x1080.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 500px;
 }
 
 .contact{
   width: 100%;
-  background-image: url("https://wallpapertag.com/wallpaper/full/a/a/4/102788-light-grey-background-1920x1200-desktop.jpg");
+  background-image: url("http://bdfjade.com/data/out/73/5789433-hd-background-images.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
